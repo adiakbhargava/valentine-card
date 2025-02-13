@@ -27,7 +27,7 @@ A simple React application that displays a Valentine's Day card component.
 
 # Interactive Elements
 - "No" button, represented by 'pmo', playfully moves away when the user tries to hover over it
-- "Yes" button, represented by 'ts', triggers a celebratory heart animation when clicked
+- "Yes" button, represented by 'ts', triggers a celebratory heart animation and message when clicked
 
 # Styling Features
 - Flexbox-based layouts for responsive positioning
