@@ -10,7 +10,9 @@ A simple React application that displays a Valentine's Day card component.
 │   ├── App.css
 │   ├── index.js
 │   └── components/
-│       └── ValentineCard.js
+│       ├── ValentineCard.js
+│       ├── ValentineCard.css
+│       └── asset01.jpg 
 ```
 
 ## Files Overview
