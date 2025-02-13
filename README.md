@@ -20,13 +20,19 @@ A simple React application that displays a Valentine's Day card component.
 - `App.js`: Main application component that renders the ValentineCard component
 - `App.css`: Contains styling for the application, including animations and layout
 - `index.js`: Entry point of the application that renders the App component to the DOM
+- 'ValentineCard.js' : Contains the interactive components of the Valentine's Card with dynamic features
+- 'ValentineCard.css' : Contains the specific styling for the Valentine's Card
 
 ## Features
 
-- Spinning animation for the App logo (defined in CSS)
-- Responsive design with media queries
-- Centered layout with flexbox
-- Color scheme using dark background (#282c34) with white text
+# Interactive Elements
+- "No" button, represented by 'pmo', playfully moves away when the user tries to hover over it
+- "Yes" button, represented by 'ts', triggers a celebratory heart animation when clicked
+
+# Styling Features
+- Flexbox-based layouts for responsive positioning
+- Custom animations for falling hearts
+- Shadow effects for depth and visual interest
 
 ## Getting Started
 
